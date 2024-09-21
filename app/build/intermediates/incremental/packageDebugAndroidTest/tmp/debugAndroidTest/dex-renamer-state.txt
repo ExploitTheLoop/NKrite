@@ -1,0 +1,7 @@
+#Sat Sep 21 08:49:11 BDT 2024
+base.0=D\:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\10\\classes.dex
+path.0=0/classes.dex
+path.1=10/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

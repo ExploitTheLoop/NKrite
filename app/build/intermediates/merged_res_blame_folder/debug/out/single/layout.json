@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\floatview.xml",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\layout\\floatview.xml"
+    }
+]

@@ -1,0 +1,47 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+android {
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.NullByte"
+        minSdkVersion 23
+        targetSdkVersion 32
+        versionCode 4
+        versionName '4.0.0'
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildFeatures {
+        viewBinding true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+dependencies {
+    def libsuVersion = "4.0.3"
+    implementation "com.github.topjohnwu.libsu:core:${libsuVersion}"
+    implementation "com.github.topjohnwu.libsu:service:${libsuVersion}"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+}

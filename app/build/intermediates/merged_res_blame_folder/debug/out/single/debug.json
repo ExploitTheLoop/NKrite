@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_clear_boot.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_clear_boot.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_motocycle_cart.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\motocycle_cart.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mk47.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mk47.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bandage.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bandage.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_console_background.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\console_background.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_canted.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\canted.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s6x.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s6x.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_helmet3.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\helmet3.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_aim.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_aim.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bag1.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bag1.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_smoke.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\smoke.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_seekbar_background.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\seekbar_background.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s3x.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s3x.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_floatinglogo_background.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_floatinglogo_background.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_energy_drink.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\energy_drink.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_web.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\web.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_m16a4.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\m16a4.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_helmet2.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\helmet2.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_pickup.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\pickup.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_switchlayoutbackground.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\switchlayoutbackground.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bag2.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bag2.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_list.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_list.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close_box.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_close_box.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammo300magnum.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammo300magnum.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_buttontext.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bg_buttontext.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_flare_gun.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\flare_gun.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_qbu.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\qbu.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_awm.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\awm.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_aimon.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\aimon.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mirado.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mirado.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_account_circle.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\account_circle.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bag3.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bag3.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_vest2.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\vest2.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_aug.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\aug.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_scooter.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\scooter.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_frag_nad.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\frag_nad.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_progressbar_0.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\game_progressbar_0.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_m249.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\m249.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_m24.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\m24.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s2x.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s2x.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_big_boat.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\big_boat.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_snowbike.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\snowbike.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_shape.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_danger_boot.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_danger_boot.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_helmet1.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\helmet1.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_slr.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\slr.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_pain_killer.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\pain_killer.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_tommy.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\tommy.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_plane.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\plane.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_warning.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_vector.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\vector.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_shoot.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\shoot.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_chevron_right.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\chevron_right.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammo12uage.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammo12uage.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_gas_can.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\gas_can.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_m416.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\m416.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_kar98k.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\kar98k.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammocp.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammocp.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_lada_niva.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\lada_niva.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_play.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_clear_enemy.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_clear_enemy.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_aquarail.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\aquarail.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_pan.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\pan.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_first_aid.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\first_aid.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammo762.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammo762.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_akm.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\akm.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_aarrow.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\aarrow.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_view.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_view.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammo9mm.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammo9mm.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_dp.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\dp.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_radius6.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\radius6.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_danger_enemy.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_danger_enemy.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\layout_floatview.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\layout\\floatview.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_thumb.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_motocycle.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\motocycle.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_snow_mobile.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\snow_mobile.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mini_bus.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mini_bus.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s4x.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s4x.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s12k.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s12k.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s1897.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s1897.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_vest1.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\vest1.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_dbs.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\dbs.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_m762.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\m762.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_reddot.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\reddot.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_player.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_player.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_rony.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\rony.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_telegram.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_telegram.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_stun.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\stun.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_weapons.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_weapons.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_injection.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\injection.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_menu.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_dacia.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\dacia.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_hollow.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\hollow.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_molotov.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\molotov.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_groza.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\groza.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_tuktuk.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\tuktuk.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ammo556.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\ammo556.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_game_progressbar_30.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\game_progressbar_30.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_aimoff.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\aimoff.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_sks.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\sks.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_uaz.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\uaz.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_fingerprint_24.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\baseline_fingerprint_24.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mirado_open.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mirado_open.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_s8x.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\s8x.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_vest3.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\vest3.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mk14.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mk14.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_buggy.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\buggy.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_brdm.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\brdm.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_air_drop.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\air_drop.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_qbz.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\qbz.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_stop.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_scar_l.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\scar_l.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_g36c.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\g36c.png"
+    },
+    {
+        "merged": "D:\\androidappsource\\FreeFire\\NKrite\\app\\build\\intermediates\\merged_res\\debug\\drawable_mini14.png.flat",
+        "source": "D:\\androidappsource\\FreeFire\\NKrite\\app\\src\\main\\res\\drawable\\mini14.png"
+    }
+]

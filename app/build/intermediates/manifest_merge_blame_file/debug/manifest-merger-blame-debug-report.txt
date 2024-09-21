@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.NullByte"
+4    android:versionCode="4"
+5    android:versionName="4.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml
+10
+11    <!-- Permissions for external storage -->
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:6:5-81
+12-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:7:5-80
+13-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:7:22-77
+14
+15    <!-- Permission for overlay window (if needed) -->
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:10:5-78
+16-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:10:22-75
+17
+18    <application
+18-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:12:5-39:19
+19        android:allowBackup="true"
+19-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:13:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.7.0] C:\Users\sayan\.gradle\caches\transforms-3\e8f8c63a878410a5b1ad292cdad3a105\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:14:9-43
+24        android:label="@string/app_name"
+24-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:15:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:16:9-52
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:17:9-54
+27        android:supportsRtl="true"
+27-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:18:9-35
+28        android:theme="@style/Theme.KMrite" >
+28-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:19:9-44
+29        <activity
+29-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:21:9-28:20
+30            android:name="com.NullByte.RootInitializer"
+30-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:21:19-62
+31            android:exported="true"
+31-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:23:13-36
+32            android:screenOrientation="portrait" >
+32-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:22:13-49
+33            <intent-filter>
+33-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:24:13-27:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:25:17-69
+34-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:26:17-77
+36-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:26:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:30:9-31:51
+40            android:name="com.NullByte.MainActivity"
+40-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:30:19-59
+41            android:screenOrientation="portrait" />
+41-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:31:13-49
+42
+43        <!-- Declare your service here -->
+44        <service
+44-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:34:9-37:40
+45            android:name="com.NullByte.FloatingViewService"
+45-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:35:13-60
+46            android:enabled="true"
+46-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:36:13-35
+47            android:exported="false" />
+47-->D:\androidappsource\FreeFire\NKrite\app\src\main\AndroidManifest.xml:37:13-37
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+51            android:authorities="com.NullByte.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\sayan\.gradle\caches\transforms-3\b28fcca28b273fdaeeea80f831e42cb4\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sayan\.gradle\caches\transforms-3\a0749da0f73a813a842ac0cd45ad4ada\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sayan\.gradle\caches\transforms-3\a0749da0f73a813a842ac0cd45ad4ada\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\sayan\.gradle\caches\transforms-3\a0749da0f73a813a842ac0cd45ad4ada\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>
