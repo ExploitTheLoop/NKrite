@@ -1,4 +1,5 @@
 # NKrite
+![NKrite Logo](https://github.com/ExploitTheLoop/NKrite/blob/master/Untitled.png)
 
 Patch runtime process library (*.so) with offset & hex bytes.
 
