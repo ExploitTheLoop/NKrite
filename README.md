@@ -21,7 +21,7 @@ This project is designed for those who want to build an injector app without any
     - **Package Name:** The package of your process.
     - **Lib Name:** Library (*.so) name.
     - **Offset:** `0x...`.
-    - **Hex:** `0A010213`.
+    - **Hex:** `0A 01 02 13`.
 
 ## Credits
 
